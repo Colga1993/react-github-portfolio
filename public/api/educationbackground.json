@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "Technologie de l'informatique",
+        "meta": "EPHEC",
+        "text": "Deux années l'Ephec non abouties mais qui m'ont permisent d'apprendre pas mal de choses dans un premier temps dans le domaine de la programmation. Les autres cours ne m'importaient que trop peu pour que je puisse m'y interesser.",
+        "year": "2012 - 2013"
+    },
+    {
+        "id": 2,
+        "title": "UX-UI DESIGN",
+        "meta": "CEPEGRA",
+        "text": "Formation WEB-DESIGN/HTML/CSS & wordpress. Bonne formation dans l'ensemble où j'ai pu revoir les bases et en apprendre d'avantages sur la conception d'un site web.",
+        "year": "2016-2017"
+    },
+    {
+        "id": 3,
+        "title": "La passion",
+        "meta": "La vie",
+        "text": "Le domaine du web et de l'image sont une passion dévorante chez moi depuis depuis tout jeune. Pour l'anecdote j'ai pu concevoir mon premier site web html/css uniquement en FTP sur des serveurs gratuits à l'âge de 15-16 ans ans.",
+        "year": "1993 - Présent"
+    }
+]

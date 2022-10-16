@@ -1,0 +1,28 @@
+{
+    "firstName": "Gautier",
+    "lastName": "Collet",
+    "fullName": "Gautier Collet",
+    "thumbImage": "/images/formal-image.png",
+    "largeImage": "/images/about-image.jpg",
+    "bio": "Je suis Freelance Web-designer. Je met à disposition mes compétences dans le domaine du web pour tout ceux désirant créer leur propre site web avec un beau design, de la rapidité d'exécution et un bon référencement.",
+    "age": 29,
+    "nationality": "Belge",
+    "languages": [
+        "Anglais",
+        "Français"
+    ],
+    "address": "15/2, Rue ddes champs, 6800 Libramont",
+    "freelance": "Disponible",
+    "socialAddress": {
+        "facebook": "https://www.facebook.com/ColletGPhotographer",
+        "twitter": "https://twitter.com",
+        "github": "https://github.com",
+        "linkedin": "https://www.linkedin.com/in/colletgautier"
+    },
+    "phoneNumbers": [
+        "0460 95 52 18"
+    ],
+    "emailAddress": [
+        "contact@colletg-photography.be"
+    ]
+}

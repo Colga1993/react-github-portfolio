@@ -1,0 +1,17 @@
+[   
+    {
+        "id": 1,
+        "title": "WEBSITE",
+        "value": "website"
+    },
+    {
+        "id": 2,
+        "title": "E-commerce",
+        "value": "e-shop"
+    },
+    {
+        "id": 3,
+        "title": "Landing Page",
+        "value": "landing"
+    }
+]

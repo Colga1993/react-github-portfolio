@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "Kerger Bureautique",
+        "subtitle": "SITE WEB + E-SHOP",
+        "coverimage": "/images/portfolios/kerger.png",
+        "imagegallery": false,
+        "videogallery": false,
+        "url": "https://bureautique.kerger.be/",
+        "filters": ["e-shop", "website"]
+    },
+    {
+        "id": 2,
+        "title": "Nathalie F - Sexologue",
+        "subtitle": "Landing page",
+        "coverimage": "/images/portfolios/NathalieF.png",
+        "imagegallery": false,
+        "videogallery": false,
+        "url": "https://www.sexologue-nathalie-feyereisen.be/",
+        "filters": ["landing"]
+    },
+    {
+        "id": 3,
+        "title": "Gautier Collet",
+        "subtitle": "Portfolio Photographe",
+        "coverimage": "/images/portfolios/GautierC.png",
+        "imagegallery": false,
+        "videogallery": false,
+        "url": "https://www.colletg-photography.be/",
+        "filters": ["website"]
+    }
+]

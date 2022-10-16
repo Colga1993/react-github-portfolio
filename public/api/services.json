@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Ui/Ux Design",
+        "text": "Des designs épurés à l'image de votre marque",
+        "icon": "/icons/quill-pen-line.svg"
+    },
+    {
+        "id": 2,
+        "title": "Developpement web",
+        "text": "Réalisation du site web, intégration de contenu, référencement.",
+        "icon": "/icons/code-s-slash-line.svg"
+    },
+    {
+        "id": 3,
+        "title": "Photos & Vidéos",
+        "text": "Sur demande, je propose aussi mes services de photographes afin du créer du contenu qualitatif qui vous resemble.",
+        "icon": "/icons/smartphone-line.svg"
+    }
+]

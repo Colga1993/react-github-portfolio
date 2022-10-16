@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "UI-UX Designer",
+        "meta": "Noomia",
+        "text": "Stage en UI-UX Design",
+        "year": "2017 - 2017"
+    },
+    {
+        "id": 2,
+        "title": "HTML/CXSS/Wordpress",
+        "meta": "Collet Gautier",
+        "text": "Création et gestion de mon propre site web et sa boite mail depuis 2017",
+        "year": "2017 - Présent"
+    },
+    {
+        "id": 3,
+        "title": "Communication",
+        "meta": "Kerger Bureautique",
+        "text": "Refonte total de leur site web, création dd'une boutique en ligne, automatisation des mails de commande, paiement, ajouts d'articles.. Création d'une newsletter",
+        "year": "2020 - 2022"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "title": "HTML/CSS",
+        "percentage": 85
+    },
+    {
+        "id": 2,
+        "title": "Javascript",
+        "percentage": 50
+    },
+    {
+        "id": 3,
+        "title": "Wordpress",
+        "percentage": 80
+    },
+    {
+        "id": 4,
+        "title": "Figma",
+        "percentage": 70
+    },
+    {
+        "id": 5,
+        "title": "Photographie",
+        "percentage": 95
+    },
+    {
+        "id": 6,
+        "title": "Retouche photo",
+        "percentage": 75
+    },
+    {
+        "id": 7,
+        "title": "Vidéo",
+        "percentage": 80
+    },
+    {
+        "id": 8,
+        "title": "SEO",
+        "percentage": 90
+    }
+]
